@@ -11,7 +11,7 @@ Is there any breaking change that could affect users of old versions (mainly API
 - [ ] Yes {{ If yes, list them and add a little description or justification }}
 - [x] No
 
-## Links of insterest
+## Links of interest
 - [Project]({{ Link to the project's Notion page }})
 - [Proposal]({{ Link to the accepted proposal in Notion }})
 - [Software tracking page]({{ Link to the subpage of the feature in the Software Tracking page in Notion }})
