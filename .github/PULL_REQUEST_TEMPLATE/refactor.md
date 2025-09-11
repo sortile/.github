@@ -1,6 +1,6 @@
 # PR to refactor existing functionality in the source code
 
-## Proposed changes:
+## Proposed changes
 - {{ Add a list with the proposed changes }}
 
 ## Affected features
