@@ -1,4 +1,4 @@
-# PR to fix an existing bug in the source code
+# PR to fix existing bugs in the source code
 
 ## Proposed solutions:
 - {{ Add a list of the bugs detected and their corresponding solution }}
