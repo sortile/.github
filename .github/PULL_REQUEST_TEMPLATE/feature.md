@@ -6,7 +6,7 @@
 ## How does it work
 {{ Describe the new features, add comments on decisions made, analyze border cases... anything you consider relevant or useful to take into account while reviewing your PR }}
 
-## Links of insterest
+## Links of interest
 - [Project]({{ Link to the project's Notion page }})
 - [Proposal]({{ Link to the accepted proposal in Notion }})
 - [Software tracking page]({{ Link to the subpage of the feature in the Software Tracking page in Notion }})
