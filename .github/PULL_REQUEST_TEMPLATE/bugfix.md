@@ -4,7 +4,7 @@
 - {{ Add a list of the bugs detected and their corresponding solution }}
 
 ## Affected features
-- [] {{ Add a list of all features touched by this PR and describe how the fix corrects their buggy behavior }}
+- [ ] {{ Add a list of all features touched by this PR and describe how the fix corrects their buggy behavior }}
 
 ## Links of insterest
 - [Project]({{ Link to the project's Notion page }})
