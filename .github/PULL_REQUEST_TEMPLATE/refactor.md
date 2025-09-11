@@ -1,4 +1,4 @@
-# PR to refactor existing functionality the source code
+# PR to refactor existing functionality in the source code
 
 ## Proposed changes:
 - {{ Add a list with the proposed changes }}
