@@ -6,6 +6,11 @@
 ## How does it work
 {{ Describe the new features, add comments on decisions made, analyze border cases... anything you consider relevant or useful to take into account while reviewing your PR }}
 
+## Breaking changes - compatibility issues
+Is there any breaking change that could affect users of old software versions (mainly API users and devices)?
+- [ ] Yes {{ If yes, list them and add a little description or justification }}
+- [x] No
+
 ## Links of interest
 - [Project]({{ Link to the project's Notion page }})
 - [Proposal]({{ Link to the accepted proposal in Notion }})
