@@ -6,6 +6,11 @@
 ## Affected features
 - {{ Add a list of all features touched by this PR and describe how the refactor changes/improves them }}
 
+## Breaking changes - compatibility issues
+Is there any breaking change that could affect users of old versions (mainly API users and devices)?
+- [ ] Yes {{ If yes, list them and add a little description or justification }}
+- [x] No
+
 ## Links of insterest
 - [Project]({{ Link to the project's Notion page }})
 - [Proposal]({{ Link to the accepted proposal in Notion }})
