@@ -1,9 +1,9 @@
 # PR to add new features to the source code
 
-## Proposed changes:
+## Proposed changes
 - {{ Add a list of the developed features }}
 
-## How does it work
+## How does it work?
 {{ Describe the new features, add comments on decisions made, analyze border cases... anything you consider relevant or useful to take into account while reviewing your PR }}
 
 ## Breaking changes - compatibility issues
