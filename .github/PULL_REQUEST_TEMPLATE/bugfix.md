@@ -6,7 +6,7 @@
 ## Affected features
 - [ ] {{ Add a list of all features touched by this PR and describe how the fix corrects their buggy behavior }}
 
-## Links of insterest
+## Links of interest
 - [Project]({{ Link to the project's Notion page }})
 - [Proposal]({{ Link to the accepted proposal in Notion }})
 - [Software tracking page]({{ Link to the subpage of the feature in the Software Tracking page in Notion }})
