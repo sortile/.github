@@ -1,6 +1,6 @@
 # PR to fix existing bugs in the source code
 
-## Proposed solutions:
+## Proposed solutions
 - {{ Add a list of the bugs detected and their corresponding solution }}
 
 ## Affected features
