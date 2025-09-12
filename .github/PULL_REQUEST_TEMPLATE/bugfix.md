@@ -6,6 +6,10 @@
 ## Affected features
 - [ ] {{ Add a list of all features touched by this PR and describe how the fix corrects their buggy behavior }}
 
+## Side quests
+- {{ If, during the development of the fix, you identify any issues that may need improvement but are unrelated to the current work, please list them here. You can include a description, a link to a Notion page, etc. The goal is to raise awareness of the issue so we can evaluate how to prioritize it }}
+
+
 ## Links of interest
 - [Project]({{ Link to the project's Notion page }})
 - [Proposal]({{ Link to the accepted proposal in Notion }})
