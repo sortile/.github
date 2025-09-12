@@ -16,6 +16,7 @@ Is there any breaking change that could affect users of old versions (mainly API
 
 
 ## Links of interest
+{{ Next to any of the links below, add a comment if necessary. For instance, if the Software Tracking page is still in progress, you can mention it next to the _Software Tracking page_ link so the reviewer doesn't read it until it's ready }}
 - [Project]({{ Link to the project's Notion page }})
 - [Proposal]({{ Link to the accepted proposal in Notion }})
 - [Software tracking page]({{ Link to the subpage of the feature in the Software Tracking page in Notion }})
