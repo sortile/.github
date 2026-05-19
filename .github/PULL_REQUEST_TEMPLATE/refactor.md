@@ -24,6 +24,6 @@ Is there any breaking change that could affect users of old versions (mainly API
 - {{ Any other relevant documentation that may help understanding and validating the PR }}
 
 ## Dependencies
-Does this PR relies on the approval of other PR first?
+Does this PR rely on the approval of other PR first?
 - [ ] Yes {{ If yes, add links to the concerning PRs }}
 - [x] No
